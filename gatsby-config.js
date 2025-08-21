@@ -9,7 +9,7 @@ module.exports = {
     description: `Terminal -command-line themed portfolio featuring projects ranging from robust Gatsby PWA's, React APPs and FullStack Web APPs utilizing cloud platforms to simple HTML, CSS and JavaScript sites.`,
     author: `@Alwanly`,
     url: "https://profile.dev-ally.net",
-    image: "/my_photo.jpg", // Path to your image you placed in the 'static' folder
+    image: "/myPhoto.jpg", // Path to your image you placed in the 'static' folder
     twitterUsername: "@Alwanleyy",
   },
   plugins: [
@@ -33,7 +33,7 @@ module.exports = {
         background_color: `#1b2d3a`,
         theme_color: `#1b2d3a`,
         display: `minimal-ui`,
-        icon: `src/images/my_photo.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/myPhoto.jpg`, // This path is relative to the root of the site.
       },
     },
     {

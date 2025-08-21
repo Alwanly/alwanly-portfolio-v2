@@ -3,7 +3,7 @@ slug: "/about"
 video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
-popupImageSrc: "my_photo.jpg"
+popupImageSrc: "myPhoto.jpg"
 popupImageAlt: "Cartoon photo of myself"
 popupGithubLink: "https://github.com/Alwanly"
 techIcons: [
@@ -11,13 +11,14 @@ techIcons: [
         "go",
         "php",
         "laravel",
-        "nodejs",
+        "nodedotjs",
         "typescript",
         "docker",
         "mysql",
         "postgresql",
         "mongodb",
-        "redis"
+        "redis",
+        "apachekafka",
       ]
 ---
 
